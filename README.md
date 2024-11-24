@@ -1,1 +1,1 @@
-# gps2xy
+# gpx2xy
